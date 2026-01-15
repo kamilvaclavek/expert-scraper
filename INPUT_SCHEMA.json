@@ -1,0 +1,15 @@
+{
+  "title": "Input",
+  "description": "Add information to determine the searched products",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "keyword": {
+      "title": "Keyword",
+      "description": "The term used to search products.",
+      "type": "string",
+      "editor": "textfield"
+    }
+  },
+  "required": ["keyword"]
+}

@@ -1,0 +1,7 @@
+{
+	"actorSpecification": 1,
+	"name": "expert-scraper-vac-kam",
+	"version": "0.0",
+	"buildTag": "latest",
+	"environmentVariables": {}
+}
